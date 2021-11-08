@@ -1,6 +1,6 @@
  ![1](https://user-images.githubusercontent.com/81687948/140780335-9dd87b50-b49d-415a-8d3d-75a0f07474b1.png)
 ## Real life Sudoku Solver 
-<h3> The main language used is python and the libereries used are OPEN CV and Tensorflow 2.</h3>
+### The main language used is python and the libereries used are OPEN CV and Tensorflow 2
 Input IMG:
 
   <ul>
