@@ -1,8 +1,8 @@
- ![1](https://user-images.githubusercontent.com/81687948/140780335-9dd87b50-b49d-415a-8d3d-75a0f07474b1.png)
+![3](https://user-images.githubusercontent.com/81687948/140778571-1ceaafc6-0f74-454e-bb5d-d7d2bb54dba0.jpg)
 ## Real life Sudoku Solver 
 ### The main language used is python and the libereries used are OPEN CV and Tensorflow 2
 Input IMG:
-
+![1](https://user-images.githubusercontent.com/81687948/140780335-9dd87b50-b49d-415a-8d3d-75a0f07474b1.png)
   <ul>
     <li> the main couse of this project is to find a to sove a sudoku with just a clear photo of sudoku itself
       <ol>
@@ -17,8 +17,8 @@ Input IMG:
     <li>the 2nd step is to process the image
       <ol>
         <li>The Image goes under 4 processes till the point when logical code recives the array
-        <li>we find the image Contours(boders)</li>
-![3](https://user-images.githubusercontent.com/81687948/140778571-1ceaafc6-0f74-454e-bb5d-d7d2bb54dba0.jpg)
+        <li>we find the image Contours(boders) 
+        <li>
         <li>we find the sudoku box</li>
 ![4](https://user-images.githubusercontent.com/81687948/140778701-f29fae77-e3b6-4d43-89b9-27e3361c1852.jpg)
         <li>we crop it and wrap it into a plane full size image</li>
