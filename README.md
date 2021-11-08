@@ -24,7 +24,6 @@
         <li>Backtracking is used for the code 
         <li>this code is effitient than any brute force methord cus it will 9^81 guesses for it to work for a single cell
       </ol>
-
      <li>Sending the array to the code we wrote just above
         <ol>
           <li>this is send as a flat array and returned in the same manner with the answers
