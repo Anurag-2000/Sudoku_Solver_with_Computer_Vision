@@ -43,7 +43,6 @@ Input IMG:
          <li> then it is merged on the orginal 
            
 ![2](https://user-images.githubusercontent.com/81687948/140781383-ea25d655-dcc9-4202-8efa-777516ee6400.png)
-
        </ol>
   </ul>
   
