@@ -1,4 +1,4 @@
-![3](https://user-images.githubusercontent.com/81687948/140778571-1ceaafc6-0f74-454e-bb5d-d7d2bb54dba0.jpg)
+
 ## Real life Sudoku Solver 
 ### The main language used is python and the libereries used are OPEN CV and Tensorflow 2
 Input IMG:
@@ -18,6 +18,8 @@ Input IMG:
       <ol>
         <li>The Image goes under 4 processes till the point when logical code recives the array
         <li>we find the image Contours(boders)
+          
+![3](https://user-images.githubusercontent.com/81687948/140778571-1ceaafc6-0f74-454e-bb5d-d7d2bb54dba0.jpg)
         <li>we find the sudoku box
           
 ![4](https://user-images.githubusercontent.com/81687948/140778701-f29fae77-e3b6-4d43-89b9-27e3361c1852.jpg)
@@ -39,6 +41,9 @@ Input IMG:
        <ol>
          <li>The Answers are printed on black screen dewraped
          <li> then it is merged on the orginal 
+           
+![2](https://user-images.githubusercontent.com/81687948/140781383-ea25d655-dcc9-4202-8efa-777516ee6400.png)
+
        </ol>
   </ul>
   
