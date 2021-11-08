@@ -1,6 +1,6 @@
 ## Real life Sudoku Solver 
 <h3> The main language used is python and the libereries used are OPEN CV and Tensorflow 2.
-  ![1](https://user-images.githubusercontent.com/81687948/140778178-7430bcf2-d6d9-41ce-8009-efddb1a25f71.jpg)
+![1](https://user-images.githubusercontent.com/81687948/140778178-7430bcf2-d6d9-41ce-8009-efddb1a25f71.jpg)
 
   <ul>
     <li> the main couse of this project is to find a to sove a sudoku with just a clear photo of sudoku itself
@@ -16,9 +16,12 @@
     <li>the 2nd step is to process the image
       <ol>
         <li>The Image goes under 4 processes till the point when logical code recives the array
-        <li>we find the image Contours(boders)![3](https://user-images.githubusercontent.com/81687948/140778571-1ceaafc6-0f74-454e-bb5d-d7d2bb54dba0.jpg)
-        <li>we find the sudoku box![4](https://user-images.githubusercontent.com/81687948/140778701-f29fae77-e3b6-4d43-89b9-27e3361c1852.jpg)
-        <li>we crop it and wrap it into a plane full size image![5](https://user-images.githubusercontent.com/81687948/140778826-208099bf-ddf5-4882-a108-f8c32d39fc9c.jpg)
+        <li>we find the image Contours(boders)
+![3](https://user-images.githubusercontent.com/81687948/140778571-1ceaafc6-0f74-454e-bb5d-d7d2bb54dba0.jpg)
+        <li>we find the sudoku box
+![4](https://user-images.githubusercontent.com/81687948/140778701-f29fae77-e3b6-4d43-89b9-27e3361c1852.jpg)
+        <li>we crop it and wrap it into a plane full size image
+![5](https://user-images.githubusercontent.com/81687948/140778826-208099bf-ddf5-4882-a108-f8c32d39fc9c.jpg)
         <li>finally we send crop image into 81 parts each containg 1 number of sudoku
       </ol>
     <li>The 3rd step is to make the logical code for finding the solution of sudoku
