@@ -17,11 +17,12 @@ Input IMG:
     <li>the 2nd step is to process the image
       <ol>
         <li>The Image goes under 4 processes till the point when logical code recives the array
-        <li>we find the image Contours(boders) 
-        <li>
-        <li>we find the sudoku box</li>
+        <li>we find the image Contours(boders)
+        <li>we find the sudoku box
+          
 ![4](https://user-images.githubusercontent.com/81687948/140778701-f29fae77-e3b6-4d43-89b9-27e3361c1852.jpg)
-        <li>we crop it and wrap it into a plane full size image</li>
+        <li>we crop it and wrap it into a plane full size image
+          
 ![5](https://user-images.githubusercontent.com/81687948/140778826-208099bf-ddf5-4882-a108-f8c32d39fc9c.jpg)
         <li>finally we send crop image into 81 parts each containg 1 number of sudoku</li>
       </ol>
@@ -40,3 +41,4 @@ Input IMG:
          <li> then it is merged on the orginal 
        </ol>
   </ul>
+  
