@@ -1,8 +1,8 @@
 
 ## Real life Sudoku Solver 
 ### The main language used is python and the libereries used are OPEN CV and Tensorflow 2
-Input IMG:
-![1](https://user-images.githubusercontent.com/81687948/140780335-9dd87b50-b49d-415a-8d3d-75a0f07474b1.png)
+Input clicked from TOI IMG:
+![1](http://user-images.githubusercontent.com/81687948/140780335-9dd87b50-b49d-415a-8d3d-75a0f07474b1.png)
   <ul>
     <li> the main couse of this project is to find a to sove a sudoku with just a clear photo of sudoku itself
       <ol>
